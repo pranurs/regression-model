@@ -1,6 +1,6 @@
 This repository contains two segments. 
 The first deals with implementation of gradient descent for polynomial regression in two variables.
-The second segment explores the use of Bayesian methods for parametric estimation.
+The second segment explores the use of Bayesian methods for parameter estimation.
 
 # Polynomial Regression in Two Variables
 
@@ -24,7 +24,7 @@ The dataset contains 434874 instances.
 
 For the purpose of our regression model, we use the attributes    <b>LONGITUDE</b>    and    <B>LATITUDE</b>    to predict    <b>ALTITUDE</b>. 
 
-# Bayesian Parametric Estimation
+# Bayesian Parameter Estimation
 
 This next section explores the use of Bayesian methods to estimate population parameters which would describe a probability distribution most suited to have given rise to the data observed. 
 
