@@ -1,5 +1,5 @@
 This repository contains two segments. 
-The first deals with implementation of gradient descent for polynomial regression in two variables.
+The first deals with the implementation of gradient descent for polynomial regression in two variables.
 The second segment explores the use of Bayesian methods for parameter estimation.
 
 # Polynomial Regression in Two Variables
