@@ -48,7 +48,7 @@ There are two methods of approach:
   
 For each of these methods, we implement both the numerical and analytical variants of estimation.
 
-## Resultant Estimate
+## Resulting Estimate
 
 For the case of 160 observations (<i>n</i> = 160) with (<i>p</i> = 0.7), our estimation converges to a beta distribution with mean 0.69091.
 The estimation using the sequential method can be seen visually as below:
